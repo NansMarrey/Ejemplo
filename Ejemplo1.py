@@ -11,4 +11,4 @@ x=a/b/c/d/e
 print("La suma de los valores es igual a", s)
 print("La resta de los valores es igual a", r)
 print("La multiplicacion de los valores es igual a", m)
-print(f"La división de los valores es igual a {x: .4f}")
+print("La división de los valores es igual a:", x)
